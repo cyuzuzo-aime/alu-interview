@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Calculate the minimum number of Copy All and Paste operations 
+Calculate the minimum number of Copy All and Paste operations
 to get exactly n 'H' characters.
 """
 
